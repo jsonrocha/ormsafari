@@ -1,0 +1,11 @@
+C:\assignments\ormsafari\bin\Debug\netcoreapp2.1\ormsafari.deps.json
+C:\assignments\ormsafari\bin\Debug\netcoreapp2.1\ormsafari.runtimeconfig.json
+C:\assignments\ormsafari\bin\Debug\netcoreapp2.1\ormsafari.runtimeconfig.dev.json
+C:\assignments\ormsafari\bin\Debug\netcoreapp2.1\ormsafari.dll
+C:\assignments\ormsafari\bin\Debug\netcoreapp2.1\ormsafari.pdb
+C:\assignments\ormsafari\obj\Debug\netcoreapp2.1\ormsafari.csprojAssemblyReference.cache
+C:\assignments\ormsafari\obj\Debug\netcoreapp2.1\ormsafari.csproj.CoreCompileInputs.cache
+C:\assignments\ormsafari\obj\Debug\netcoreapp2.1\ormsafari.AssemblyInfoInputs.cache
+C:\assignments\ormsafari\obj\Debug\netcoreapp2.1\ormsafari.AssemblyInfo.cs
+C:\assignments\ormsafari\obj\Debug\netcoreapp2.1\ormsafari.dll
+C:\assignments\ormsafari\obj\Debug\netcoreapp2.1\ormsafari.pdb
